@@ -1,6 +1,12 @@
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+This project basically connects with Spotify API, the user can search all the songs, and create a playlist here and add it to his actual Spotify Account(OAuth).
+
+
+
 
 In the project directory, you can run:
 
